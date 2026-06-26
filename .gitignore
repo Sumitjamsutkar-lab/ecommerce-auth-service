@@ -30,4 +30,5 @@ build/
 !**/src/test/**/build/
 application-secret.yml
 ### VS Code ###
+application.yml
 .vscode/
